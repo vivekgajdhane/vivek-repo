@@ -1,4 +1,4 @@
 # vivek-repo
 This is my first Git Repository.
 <br> 
-Author - Vivek Gajdhane
+Author - Vivek Gajdhane (Vivek)
